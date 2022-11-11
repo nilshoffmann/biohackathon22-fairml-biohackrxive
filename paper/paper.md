@@ -1,22 +1,35 @@
 ---
-title: 'BioHackEU22 Template'
-title_short: 'BioHackEU22 #26: unknown chemical substances'
+title: 'BioHackEU22 #9: Disseminating FAIR Machine Learning Models via BioModels'
+title_short: 'BioHackEU22 #26: FAIR ML (Bio)Models'
 tags:
-  - cheminformatics
-  - PubChem
-  - unknown chemical substances
+  - machine learning
+  - biology
+  - classification
+  - prediction
+  - BioModels
 authors:
-  - name: First Author
+  - name: Rahuman Sheriff
+    orcid: 0000-0003-0705-9809
     affiliation: 1
-  - name: Last Author
-    orcid: 0000-0000-0000-0000
+  - name: Sucheta Ghosh
+    orcid: 0000-0002-2896-4552
     affiliation: 2
+  - name: Sumukh Desphande
+    orcid: 
+    affiliation: 3   
+  - name: Nils Hoffmann
+    orcid: 0000-0002-6540-6875
+    affiliation: 4
 affiliations:
   - name: First Affiliation
     index: 1
   - name: Second Affiliation
     index: 2
-date: 8 November 2022
+  - name: Third Affiliation
+    index: 3
+  - name: Fourth Affiliation
+    index: 4
+date: 11 November 2022
 cito-bibliography: paper.bib
 event: BH22EU
 biohackathon_name: "BioHackathon Europe 2022"
@@ -27,7 +40,7 @@ group: Project 26
 git_url: https://github.com/biohackrxiv/publication-template
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
-authors_short: First Author \emph{et al.}
+authors_short: Rahuman Sheriff \emph{et al.}
 ---
 
 
@@ -83,6 +96,8 @@ Possible CiTO typing annotation include:
 
 # Results
 
+We succeeded to curate one previously published machine learning model, namely a ....
+
 
 # Discussion
 
@@ -93,3 +108,8 @@ Possible CiTO typing annotation include:
 ...
 
 ## References
+
+- BioModels
+- BioSchema
+- ONNX
+- 
