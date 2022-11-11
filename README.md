@@ -1,7 +1,6 @@
-# BioHackrXiv Publication Template
+# Disseminating FAIR Machine Learning Models via BioModels
 
-Minimal example of a BioHackrXiv publication that can be generated with the
-[Preview Server](http://preview.biohackrxiv.org/).
+Results from ELIXIR Biohackathon 2022.
 
 ## Step 1: Clone this Template Repository
 
